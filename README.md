@@ -1,2 +1,2 @@
 # JS-Practice-Solutions
-Practices for learning programming through javascript
+Practices for teaching new members programming through javascript
