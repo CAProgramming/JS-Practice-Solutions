@@ -6,7 +6,7 @@ var next;
 
 for(var i = 0; i < maxNumbers-2; i++) {
 	next = last + curr;
-  last = curr;
+	last = curr;
  	curr = next;
-  console.log(curr);
+	console.log(curr);
 }
